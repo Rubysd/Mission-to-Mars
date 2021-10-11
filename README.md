@@ -83,6 +83,8 @@ The scraping.py file contains code that retrieves the full-resolution image URL 
 The Mongo database is updated to contain the full-resolution image URL and title for each hemisphere image.
 
 ![Captura de pantalla (777)](https://user-images.githubusercontent.com/86340630/136710666-53aba9da-81b7-4540-b5f0-6c7505dc10d7.png)
+![Captura de pantalla (804)](https://user-images.githubusercontent.com/86340630/136719815-c88fec62-9849-4f18-ba4c-1d8ec7992d40.png)
+
 
 The index.html file contains code that will display the full-resolution image URL and title for each hemisphere image
 
