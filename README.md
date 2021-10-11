@@ -37,7 +37,6 @@ Make a copy of your Mission_to_Mars.ipynb file, and rename it Mission_to_Mars_Ch
 
 ![Captura de pantalla (731)](https://user-images.githubusercontent.com/86340630/136678227-c35c57ae-eacd-45f9-b206-05af9876f935.png)
 ![Captura de pantalla (733)](https://user-images.githubusercontent.com/86340630/136678240-a2a281b6-1573-48df-824f-2e60a410ca3b.png)
-![Captura de pantalla (735)](https://user-images.githubusercontent.com/86340630/136678357-6d17e036-62af-49b3-a948-b29f009a42df.png)
 
 Download the Mission_to_Mars_Challenge_starter_code.ipynb, copy the starter code, and paste at the end of your Mission_to_Mars_Challenge.ipynb file.
 
