@@ -116,7 +116,8 @@ The webpage is mobile-responsive.
 Two additional Bootstrap 3 components are used to style the webpage.
 
 ![Captura de pantalla (800)](https://user-images.githubusercontent.com/86340630/136712421-011bc073-add3-491b-b99e-af80b0533a09.png)
-![Captura de pantalla (798)](https://user-images.githubusercontent.com/86340630/136712439-93d52b29-f747-45c2-bbf4-8d1408ffa415.png)
+![Captura de pantalla (802)](https://user-images.githubusercontent.com/86340630/136719500-e6665523-5d58-43c6-9a0f-7a09e8be47c3.png)
+
 
 
 
